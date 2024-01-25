@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PSPM_Daily_morning_chk/1.0.0": {
+        "runtime": {
+          "PSPM_Daily_morning_chk.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PSPM_Daily_morning_chk/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

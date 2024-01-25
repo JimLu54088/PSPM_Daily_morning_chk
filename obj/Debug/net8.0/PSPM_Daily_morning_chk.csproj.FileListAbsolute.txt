@@ -1,0 +1,14 @@
+C:\Users\Jim\PSPM_Daily_morning_chk\bin\Debug\net8.0\PSPM_Daily_morning_chk.exe
+C:\Users\Jim\PSPM_Daily_morning_chk\bin\Debug\net8.0\PSPM_Daily_morning_chk.deps.json
+C:\Users\Jim\PSPM_Daily_morning_chk\bin\Debug\net8.0\PSPM_Daily_morning_chk.runtimeconfig.json
+C:\Users\Jim\PSPM_Daily_morning_chk\bin\Debug\net8.0\PSPM_Daily_morning_chk.dll
+C:\Users\Jim\PSPM_Daily_morning_chk\bin\Debug\net8.0\PSPM_Daily_morning_chk.pdb
+C:\Users\Jim\PSPM_Daily_morning_chk\obj\Debug\net8.0\PSPM_Daily_morning_chk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jim\PSPM_Daily_morning_chk\obj\Debug\net8.0\PSPM_Daily_morning_chk.AssemblyInfoInputs.cache
+C:\Users\Jim\PSPM_Daily_morning_chk\obj\Debug\net8.0\PSPM_Daily_morning_chk.AssemblyInfo.cs
+C:\Users\Jim\PSPM_Daily_morning_chk\obj\Debug\net8.0\PSPM_Daily_morning_chk.csproj.CoreCompileInputs.cache
+C:\Users\Jim\PSPM_Daily_morning_chk\obj\Debug\net8.0\PSPM_Daily_morning_chk.dll
+C:\Users\Jim\PSPM_Daily_morning_chk\obj\Debug\net8.0\refint\PSPM_Daily_morning_chk.dll
+C:\Users\Jim\PSPM_Daily_morning_chk\obj\Debug\net8.0\PSPM_Daily_morning_chk.pdb
+C:\Users\Jim\PSPM_Daily_morning_chk\obj\Debug\net8.0\PSPM_Daily_morning_chk.genruntimeconfig.cache
+C:\Users\Jim\PSPM_Daily_morning_chk\obj\Debug\net8.0\ref\PSPM_Daily_morning_chk.dll
